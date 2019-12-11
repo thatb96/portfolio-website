@@ -1,0 +1,15 @@
+<section class="spotlight style(N) (optional modifiers)">
+  <div class="content">
+    (content)
+  </div>
+  <div class="image">
+    <img src="(image URL)" alt="<section class="spotlight style(N) (optional modifiers)">
+  <div class="content">
+    (content)
+  </div>
+  <div class="image">
+    <img src="(image URL)" alt="Alternate text" />
+  </div>
+</section>/>
+  </div>
+</section>
